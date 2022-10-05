@@ -7,3 +7,6 @@ resources:
   - kube-system
   - networking
   - flux-system
+  - rancher
+  - rancher-backup
+  - rancher-backup-crd
